@@ -13,6 +13,9 @@ const HomePage = () => {
             Directory
         </div>
     </div>
+    <div className='h-30 w-full bg-sky-950'>
+        
+    </div>
     </>
   )
 }
