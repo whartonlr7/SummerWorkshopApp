@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "event": "Breakfast",
+        "date": "7/12/2024",
+        "time": "7:00",
+        "description": "Breakfast avail in Garden Terrace.  For those who miss the Garden Terrace, light continential breakfast plus oatmeal avail outside of the room."
+    },
+    {
+        "id": 2,
+        "event": "Welcome and Introduction",
+        "date": "7/12/2024",
+        "time": "8:00",
+        "description": "Swag hand out to start; video kick off, DTR vid? Who/What/Where/ clients map review/growth of business review"
+    },
+    {
+        "id": 3,
+        "event": "Morning Workshop",
+        "date": "7/12/2024",
+        "time": "8:30",
+        "description": "Ice breakers, new cherry introductions, and more"
+    }
+    
+]

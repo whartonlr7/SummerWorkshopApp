@@ -1,0 +1,50 @@
+{
+    "people": [
+        {
+            "id": 1,
+            "firstName": "Luke",
+            "lastName": "Wharton",
+            "mailingCity": "Littleton",
+            "state": "CO",
+            "startYear": 2022,
+            "startDate": "12-15-2022",
+            "leadership": false,
+            "imageURL": "https://employeeheadshots.blob.core.windows.net/headshots/Benner,%20Brandon.jpg"
+        },
+        {
+            "id": 2,
+            "firstName": "Jake",
+            "lastName": "Reed",
+            "mailingCity": "Denver",
+            "state": "CO",
+            "startYear": 2020,
+            "startDate": "12-15-2020",
+            "leadership": false,
+            "imageURL": "https://employeeheadshots.blob.core.windows.net/headshots/Benner,%20Brandon.jpg"
+        },
+        {
+            "id": 3,
+            "firstName": "Rob",
+            "lastName": "Wharton",
+            "mailingCity": "Littleton",
+            "state": "CO",
+            "startYear": 2020,
+            "startDate": "12-15-2000",
+            "leadership": true,
+            "imageURL": "https://employeeheadshots.blob.core.windows.net/headshots/Benner,%20Brandon.jpg"
+        },
+        {
+            "id": 4,
+            "firstName": "Other",
+            "lastName": "Person",
+            "mailingCity": "Minneapolis",
+            "state": "MN",
+            "startYear": 2015,
+            "startDate": "12-15-2015",
+            "leadership": false,
+            "imageURL": null
+        }
+    ]
+}
+    
+  
